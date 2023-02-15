@@ -5,7 +5,7 @@ OpenCP (Open Control Plane) is an open source project originally developed by [C
 
 OpenCP is built on top of the existing best practices of kubectl and kubeapi and is released as open source under the Apache 2 license. It will always be open source, free, and available to all clouds, big or small.
 
-Our end goal is for an OpenCP user to not have to host OpenCP themselves, with endpoints natively provided by the cloud service provider of their choice.
+Our end goal is for an OpenCP user to not have to host or run OpenCP themselves, with endpoints natively provided by the cloud service provider of their choice.
 
 ## Learn about OpenCP
 
